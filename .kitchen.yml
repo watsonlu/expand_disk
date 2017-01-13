@@ -22,3 +22,7 @@ suites:
     run_list:
     - recipe[expand_disk]
     attributes:
+      expand_disk:
+        operations:
+          disk0:
+            partition2: '1GB'

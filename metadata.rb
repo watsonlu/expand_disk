@@ -7,4 +7,4 @@ source_url 'https://github.com/watsonlu/expand-disk'
 issues_url 'https://github.com/watsonlu/expand-disk/issues'
 supports 'windows'
 
-description 'Expand your windows disk using chef.'
+description 'Expand your windows disks using chef.'
