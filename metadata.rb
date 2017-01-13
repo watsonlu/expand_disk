@@ -1,0 +1,10 @@
+name 'expand_disk'
+maintainer 'Luke Watson'
+maintainer_email 'luwatson90@gmail.com'
+license 'all_rights'
+version '0.1.0'
+source_url 'https://github.com/watsonlu/expand-disk'
+issues_url 'https://github.com/watsonlu/expand-disk/issues'
+supports 'windows'
+
+description 'Expand your windows disk using chef.'
